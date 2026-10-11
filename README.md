@@ -6,8 +6,36 @@ Rust / C# / Python で、数値計算・科学計算、デスクトップアプ�
 ## 🧰 Tech Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,cs,py,cpp,c,dart,flutter,ts&theme=dark">
-  <img alt="Rust, C#, Python, C++, C, Dart, Flutter, TypeScript" src="https://skillicons.dev/icons?i=rust,cs,py,cpp,c,dart,flutter,ts&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust&theme=dark">
+  <img alt="Rust" src="https://skillicons.dev/icons?i=rust&theme=light" width="48" height="48">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs&theme=dark">
+  <img alt="C#" src="https://skillicons.dev/icons?i=cs&theme=light" width="48" height="48">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py&theme=dark">
+  <img alt="Python" src="https://skillicons.dev/icons?i=py&theme=light" width="48" height="48">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark">
+  <img alt="C++" src="https://skillicons.dev/icons?i=cpp&theme=light" width="48" height="48">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c&theme=dark">
+  <img alt="C" src="https://skillicons.dev/icons?i=c&theme=light" width="48" height="48">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart&theme=dark">
+  <img alt="Dart" src="https://skillicons.dev/icons?i=dart&theme=light" width="48" height="48">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter&theme=dark">
+  <img alt="Flutter" src="https://skillicons.dev/icons?i=flutter&theme=light" width="48" height="48">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
+  <img alt="TypeScript" src="https://skillicons.dev/icons?i=ts&theme=light" width="48" height="48">
 </picture>
 
 ## 🔬 Numerical & Scientific Computing
